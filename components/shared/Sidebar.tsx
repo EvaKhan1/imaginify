@@ -14,7 +14,7 @@ const Sidebar = () => {
     <aside className="sidebar">
       <div className="flex size-full flex-col gap-4">
         <Link href="/" className="sidebar-logo">
-          <h1 className="text-2xl text-[#6C47FF] font-bold">AI PhotoLab</h1>
+          <h1 className="text-2xl text-purple-700 font-bold">AI PhotoLab</h1>
         </Link>
 
         <nav className="sidebar-nav">
