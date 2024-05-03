@@ -14,7 +14,7 @@ const MobileNav = () => {
   return (
     <header className="header">
       <Link href="/" className="flex items-center gap-2 md:py-2">
-        <h1 className="text-2xl font-bold text-[#6C47FF]"></h1>
+        <h1 className="text-2xl font-bold text-purple-700"></h1>
       </Link>
 
       <nav className="flex gap-2">
