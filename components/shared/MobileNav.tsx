@@ -33,7 +33,7 @@ const MobileNav = () => {
             </SheetTrigger>
             <SheetContent className="sheet-content sm:w-64">
               <>
-                <h1 className="text-2xl test-[#6C47FF]">AI PhotoLab</h1>
+                <h1 className="text-2xl text-purple-700">AI PhotoLab</h1>
               <ul className="header-nav_elements">
               {navLinks.map((link) => {
                 const isActive = link.route === pathname
